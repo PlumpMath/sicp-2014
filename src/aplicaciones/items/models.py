@@ -16,7 +16,7 @@ class Items(models.Model):
     is_active: campo de tipo logico que indicara si la fase esta eliminada.
     Las fases seran ordenadas en la tabla por nombre.
     
-    @author:   
+    @author:  Romina Díaz de Bedoya 
     """
     
     nombre = models.CharField(max_length=30, null=True)
