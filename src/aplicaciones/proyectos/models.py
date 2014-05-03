@@ -16,7 +16,7 @@ class Proyectos(models.Model):
     miembros: campo que contendra la lista de miembros que trabajan en un proyecto. Es un muchos a muchos con la tabla Usuarios.
     Los proyectos seran ordenados en la tabla por nombre.
     
-    @author:  
+    @author:  Romina Diaz de Bedoya
     """
     ESTADOS_PROYECTO=(
         ('Inactivo', 'Inactivo'),
