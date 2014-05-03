@@ -3,7 +3,7 @@
     "pk": 1, 
     "model": "auth.user", 
     "fields": {
-        "username": "sap", 
+        "username": "administrador", 
         "first_name": "", 
         "last_name": "", 
         "is_active": true, 
@@ -21,9 +21,9 @@
     "pk": 2, 
     "model": "auth.user", 
     "fields": {
-        "username": "mdrm016", 
-        "first_name": "marcelo", 
-        "last_name": "denis", 
+        "username": "juahni", 
+        "first_name": "juana", 
+        "last_name": "maldonado", 
         "is_active": true, 
         "is_superuser": false, 
         "is_staff": false, 
@@ -31,7 +31,7 @@
         "groups": [], 
         "user_permissions": [], 
         "password": "pbkdf2_sha256$12000$xV2QlYhy7ICX$tkFoarM9ZPsKImo0NDSZlrPUNXYZlK6oQxwTKOxZzgU=", 
-        "email": "mdrm016@gmail.com", 
+        "email": "juahni@gmail.com", 
         "date_joined": "2014-04-19T17:25:10.796Z"
     }
 },
@@ -39,9 +39,9 @@
     "pk": 3, 
     "model": "auth.user", 
     "fields": {
-        "username": "mdrm017", 
-        "first_name": "marcelo", 
-        "last_name": "denis", 
+        "username": "franvell", 
+        "first_name": "francisco", 
+        "last_name": "velloso", 
         "is_active": true, 
         "is_superuser": false, 
         "is_staff": false, 
@@ -49,7 +49,7 @@
         "groups": [], 
         "user_permissions": [], 
         "password": "pbkdf2_sha256$12000$0Hv1IAHtPjSS$KFpw5VHju4w6WMfsVpjflnUhynH5E53lMN6y+pUwfb4=", 
-        "email": "mdrm016@gmail.com", 
+        "email": "rucontra@gmail.com", 
         "date_joined": "2014-04-19T17:25:29.107Z"
     }
 },
@@ -57,9 +57,9 @@
     "pk": 4, 
     "model": "auth.user", 
     "fields": {
-        "username": "mdrm018", 
-        "first_name": "marcelo", 
-        "last_name": "denis", 
+        "username": "rodiaz", 
+        "first_name": "romina", 
+        "last_name": "diaz", 
         "is_active": true, 
         "is_superuser": false, 
         "is_staff": false, 
@@ -67,7 +67,7 @@
         "groups": [], 
         "user_permissions": [], 
         "password": "pbkdf2_sha256$12000$IUJGaOLkxhVT$rwWPwiKFFFSbcEbiMoVqwzRc13c9HZHeKol3+1umi50=", 
-        "email": "mdrm016@gmail.com", 
+        "email": "romina.diaz@gmail.com", 
         "date_joined": "2014-04-19T17:25:52.766Z"
     }
 }
